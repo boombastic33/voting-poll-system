@@ -1,1 +1,1 @@
-# voting-poll-system
+# voting-poll-system-discord.py
